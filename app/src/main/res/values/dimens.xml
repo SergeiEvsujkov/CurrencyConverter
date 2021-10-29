@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="text_size_in_text_edit">10sp</dimen>
+    <dimen name="text_size_in_valute">20sp</dimen>
+    <dimen name="margin_edges">16dp</dimen>
+    <dimen name="image_size">40dp</dimen>
+    <dimen name="margin_card">3dp</dimen>
+    <dimen name="elevation_card">5dp</dimen>
+    <dimen name="height_card">50dp</dimen>
+    <dimen name="progress_bar_size">100dp</dimen>
+</resources>
